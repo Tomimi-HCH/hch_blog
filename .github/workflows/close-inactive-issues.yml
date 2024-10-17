@@ -6,7 +6,7 @@ on:
 
 jobs:
   close-issues:
-    if: github.repository == 'lxchapu/astro-gyoza'
+    if: github.repository == 'Tomimi-HCH/hch_blog'
     runs-on: ubuntu-latest
     permissions:
       issues: write

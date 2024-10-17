@@ -1,7 +1,7 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
+    "url": "https://tomimi-hch.github.io/",
+    "title": "博客",
     "description": "这是一个使用 Astro 和 React 开发的博客主题。",
     "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
     "lang": "zh-CN",

@@ -1,15 +1,15 @@
 {
   "site": {
     "url": "https://tomimi-hch.github.io/",
-    "title": "博客",
+    "title": "Tomimi 博客",
     "description": "这是一个使用 Astro 和 React 开发的博客主题。",
     "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
     "lang": "zh-CN",
-    "favicon": "/favicon.ico",
+    "favicon": "/特米米2.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "lxchapu",
+    "name": "Tomimi",
     "twitterId": "@lxchapu",
     "avatar": "https://s2.loli.net/2024/10/17/9ePrlTngFtVQqcJ.png"
   },

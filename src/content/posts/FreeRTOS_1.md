@@ -12,7 +12,11 @@ tags: [RTOS]
 
 ::bilibili{#BV123411578U}
 
-对代码进行修改
+对代码进行修改,
+所以最稳妥的，不管是改用户名，还是改邮箱都不会丢失任何提交记录的方式：
+
+$ git config --global user.name "任何文本"
+$ git config --global user.email "ID+username@users.noreply.github.com”
 
 任务的切换就是栈的切换
 数据类型和编程规范
